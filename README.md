@@ -23,11 +23,10 @@ to help new team members understand system layout and usage.
 ---
 
 ## ▶️ How to Run
-
 ```bash
 chmod +x system_explorer.sh
 sudo ./system_explorer.sh
-
+```
 ---
 
 ## 📂 Important Linux Directories
@@ -114,4 +113,6 @@ The `/usr` directory stores **most user-level programs and system tools**.
 | `/var` | Logs and frequently changing data |
 | `/home` | User personal files |
 | `/usr` | Applications, commands, and libraries |
+
+
 
