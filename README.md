@@ -9,7 +9,7 @@ to help new team members understand system layout and usage.
 ## 📂 Files Included
 
 - `system_explorer.sh` – Shell script that scans the filesystem
-- `system_report.md` – Auto-generated Markdown report
+- `system_explorer_report.md` – Auto-generated Markdown report
 - `README.md` – Usage instructions and project overview
 
 ---
