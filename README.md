@@ -28,6 +28,7 @@ to help new team members understand system layout and usage.
 chmod +x system_explorer.sh
 sudo ./system_explorer.sh
 
+---
 
 ## 📂 Important Linux Directories
 
